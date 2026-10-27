@@ -1,0 +1,24 @@
+# Visual Studio local settings and build output
+.vs/
+x64/
+**/x64/
+**/Debug/
+**/Release/
+*.vcxproj.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.obj
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+*.recipe
+*.FileListAbsolute.txt
+*.log
+
+# Temporary and generated files
+*.bak
+*.bak.bak
+__pycache__/
+*.pyc
